@@ -13,6 +13,7 @@
 
 ![](/image/image1.png)
 
+### Path 1: JavaScript Fundamental
 ```rb
 ### 1. Introduction to JS
 - [ ] What is JavaScript?
@@ -66,4 +67,8 @@
 - [ ] Rest Parameters
 - [ ] Arrow Functions
 - [ ] Built in functions
+```
+### Path 2: GAS Fundamental
+```rb
+Updating...
 ```
